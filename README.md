@@ -1,5 +1,8 @@
 # AI-Assistant-JoliJoli-beauty-bar
 
+https://web.telegram.org/a/#7341209023
+
+
 # ИИ-ассистент для студии красоты JoliJoli beauty bar
 
 ## Описание проекта
