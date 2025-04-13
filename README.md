@@ -2,7 +2,7 @@
 
 https://web.telegram.org/a/#7341209023
 
-https://github.com/Lihunter1/AI-Assistant-JoliJoli-beauty-bar/blob/main/image.png
+![Иллюстрация к проекту] (https://github.com/Lihunter1/AI-Assistant-JoliJoli-beauty-bar/blob/main/image.png)
 
 # ИИ-ассистент для студии красоты JoliJoli beauty bar
 
